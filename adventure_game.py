@@ -23,7 +23,3 @@ elif first.upper()=="FLASHLIGHT":
         print("Wrong Input")
 else:
     print("Wrong Input")
-
-#print("Your Choice: ")
-#second = input("")
-#if second.upper()==""
